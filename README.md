@@ -1,5 +1,5 @@
 # osujs-master
-**This is an osu! client written entirely in Scratch. (TurboWarp)
+**This is an osu! client written entirely in Scratch. (TurboWarp)**
 
 This is the latest (and last build) of stable client based on this code design.
 
@@ -9,9 +9,9 @@ So don't expect much, however:
 Feel free to mess around with it. That means: you're free to modify this client to your hearts extend, (you even have the permission to publish your own client mods) 
 as long as you credit the original creator. (which is TheEggo/ZeroChan58 for those who aren't familiar with the project)
 
-This version is "menu-only", meaning it lacks any gameplay, online functionality etc.
+__This version is "menu-only", meaning it lacks any gameplay, online functionality etc.__
 
-**Recommended TurboWarp settings:
+**Recommended TurboWarp settings:**
 
 Framerate: 60 
 Interpolation: Off
