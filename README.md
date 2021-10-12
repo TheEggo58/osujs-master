@@ -13,13 +13,18 @@ This version is "menu-only", meaning it lacks any gameplay, online functionality
 
 **Recommended TurboWarp settings:**
 
-Framerate: 60 
+Framerate: 60
+
 Interpolation: Off
+
 High Quality Pen: On
+
 Warp Timer: On
 
 Infinite Clones: On
+
 Remove Fencing: On
+
 Remove Micellaneous limits: On
 
 Stage Size: 1280x720
