@@ -26,4 +26,4 @@ Stage Size: 1280x720
 
 Disable compiler: Off recommended when editing, otherwise leave this on.
 
-(Original game/textures (c) by peppy. https://osu.ppy.sh/home)
+(Original game, sounds, textures etc. (c) by peppy. https://osu.ppy.sh/home)
