@@ -9,7 +9,7 @@ So don't expect much, however:
 Feel free to mess around with it. That means: you're free to modify this client to your hearts extend, (you even have the permission to publish your own client mods) 
 as long as you credit the original creator. (which is TheEggo/ZeroChan58 for those who aren't familiar with the project)
 
-_This version is "menu-only", meaning it lacks any gameplay, online functionality etc._
+**This version is "menu-only", meaning it lacks any gameplay, online functionality etc.**
 
 **Recommended TurboWarp settings:**
 
