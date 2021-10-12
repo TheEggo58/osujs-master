@@ -14,7 +14,6 @@ This version is "menu-only", meaning it lacks any gameplay, online functionality
 **Recommended TurboWarp settings:**
 
 Editor ready link: https://turbowarp.org/editor?extension=https://mikedev101.github.io/cloudlink/B3-0.js&extension=https://arpruss.github.io/fetch.js&size=1280x720&interpolate&clones=Infinity&offscreen&limitless
-Editor ready link: 
 
 Framerate: 60, Interpolation: Off, High Quality Pen: On, Warp Timer: On
 
