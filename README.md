@@ -1,4 +1,8 @@
 # osujs-master
+
+osu!js-stable-v1 has moved to: https://github.com/osu-js/osujs-stable-v1
+
+
 **This is an osu! client written entirely in Scratch. (TurboWarp)**
 
 This is the latest (and last build) of stable client based on this code design.
